@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://senma22.github.io/my_Publii_website/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://senma22.github.io/my_Publii_website/</loc>
+</url>
+<url>
+<loc>https://senma22.github.io/my_Publii_website/about-me.html</loc>
+<lastmod>2024-02-05T17:23:02-08:00</lastmod>
+<image:image>
+<image:loc>https://senma22.github.io/my_Publii_website/media/posts/2/gallery/IMG_3103-thumbnail.JPG</image:loc>
+<image:title><![CDATA[Morocco picture]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://senma22.github.io/my_Publii_website/media/posts/2/gallery/WechatIMG1687-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Yosimite Park ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://senma22.github.io/my_Publii_website/media/posts/2/gallery/WechatIMG1688-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Sahara Desert]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://senma22.github.io/my_Publii_website/dh-101-final-project.html</loc>
+<lastmod>2024-02-05T18:34:24-08:00</lastmod>
+</url>
+<url>
+<loc>https://senma22.github.io/my_Publii_website/dh-150-storytelling-project.html</loc>
+<lastmod>2024-02-05T17:48:20-08:00</lastmod>
+</url>
+<url>
+<loc>https://senma22.github.io/my_Publii_website/sens-digital-humanities-webpage.html</loc>
+<lastmod>2024-02-05T18:33:01-08:00</lastmod>
+</url>
+</urlset>

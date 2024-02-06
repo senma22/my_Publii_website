@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://senma22.github.io/my_Publii_website/sitemap.xml

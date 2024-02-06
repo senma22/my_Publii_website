@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sen&#x27;s DH Webpage",
+    "description": "",
+    "home_page_url": "https://senma22.github.io/my_Publii_website",
+    "feed_url": "https://senma22.github.io/my_Publii_website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zesen Ma"
+    },
+    "items": [
+    ]
+}
